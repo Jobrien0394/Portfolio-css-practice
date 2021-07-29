@@ -1,0 +1,15 @@
+
+body {
+    font-family: sans-serif; text-align: center;
+}
+h1 {
+    size: 60px;
+}
+ a {
+     color:black; font-weight: bold; text-align: center;
+ }
+ ol   {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+  }
